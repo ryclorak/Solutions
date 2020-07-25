@@ -15,3 +15,5 @@ int s=0
 for e in range(100):
   if e%3 == 0 or e%5 == 0:
     s+=e
+    
+print("Sum: " + s)
