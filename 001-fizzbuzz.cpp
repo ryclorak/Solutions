@@ -27,7 +27,7 @@ int main()
   
   for (int j=0; j<num; j++)
   {  
-    if (j%3==0 ||j%5==0)
+    if (j%3==0 || j%5==0)
       sum+=j;
   }
   
