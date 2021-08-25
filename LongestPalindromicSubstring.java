@@ -21,6 +21,6 @@ class Solution {
             ++i;
                 
         }
-        return s.substring(0,3);          //not sure why i need a return statement here, but I get yelled at otherwise.
+        return s.substring(0,3);
     }
 }
